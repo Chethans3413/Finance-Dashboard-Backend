@@ -60,4 +60,4 @@ The application utilizes a **CQRS (Command Query Responsibility Segregation)** p
 - **Design Excellence:** Instead of deploying a default wireframe, considerable effort was invested into executing a vibrant, premium *Aigentic* styling. This vastly improves the emotional response and perceived value of the internal tool through rounded aesthetics, custom SVG data charts, and soft shadows.
 - **Bulk Mock Seeding Tooling:** Built a dedicated "Seed & Tools" tab in the Admin configuration specifically engineered for developers or QA. It allows the one-click generation of randomized, structurally valid financial data to populate the tables and evaluate the chart rendering without manual inputs.
 
-- http://localhost:5173/
+
